@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdashboard_boostrap=self.webpackChunkdashboard_boostrap||[]).push([[765],{2765:function(a,r,s){s.r(r);s(2791);var e=s(184);r.default=function(){return(0,e.jsx)("div",{children:"Map One"})}}}]);
+//# sourceMappingURL=765.f00e572b.chunk.js.map

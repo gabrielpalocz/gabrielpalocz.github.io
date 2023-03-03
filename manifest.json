@@ -1,6 +1,6 @@
 {
-  "short_name": "Login",
-  "name": "Login React App",
+  "short_name": "React Dashboard App",
+  "name": "React Dashboard-Bootstrap App",
   "icons": [
     {
       "src": "favicon.ico",

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdashboard_boostrap=self.webpackChunkdashboard_boostrap||[]).push([[613],{4613:function(r,e,s){s.r(e);s(2791);var a=s(1087),o=s(184);e.default=function(){return(0,o.jsxs)("div",{id:"error-page",children:[(0,o.jsx)("h1",{children:"Oops!"}),(0,o.jsx)("p",{children:"Sorry, an unexpected error has occurred."}),(0,o.jsx)(a.rU,{to:"/dashboard/default",children:(0,o.jsx)("button",{className:"btn btn-primary",children:"Go Home"})})]})}}}]);
+//# sourceMappingURL=613.e7281102.chunk.js.map
